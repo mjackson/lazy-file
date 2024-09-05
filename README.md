@@ -1,3 +1,5 @@
+## IMPORTANT: This repository has moved to [@mjackson/remix-the-web](https://github.com/mjackson/remix-the-web/tree/main/lazy-file)
+
 # lazy-file
 
 `lazy-file` is a lazy, streaming `Blob`/`File` implementation for JavaScript.
