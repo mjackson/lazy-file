@@ -1,4 +1,4 @@
-## IMPORTANT: [This repository has moved to @mjackson/remix-the-web](https://github.com/mjackson/remix-the-web/tree/main/packages/lazy-file)
+## IMPORTANT: This repository has moved to [@mjackson/remix-the-web](https://github.com/mjackson/remix-the-web/tree/main/packages/lazy-file)
 
 # lazy-file
 
